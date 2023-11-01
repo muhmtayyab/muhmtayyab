@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+    <h1> Hi there, I'm Tayyab 👋</h1>
+</div>
+
+<p align="center">
+<a href="https://github.com/muhmtayyab"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;MERN+Stack+Developer&center=true&width=500&height=50" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **muhmtayyab/muhmtayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
